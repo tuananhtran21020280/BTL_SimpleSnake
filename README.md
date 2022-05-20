@@ -11,7 +11,7 @@
 
 # 3.Đánh giá
 
-- Bài tập được làm có sự trợ giúp của bạn, slide trên course,Internet,các anh chị,...tuy nhiên do kiến thức đang có hạn nên chỉ làm được phiên bản 0.1 của game Snakesẽ cố gắng cải thiện.
+- Bài tập được làm có sự trợ giúp của bạn, slide trên course,Internet,các anh chị,...tuy nhiên do kiến thức đang có hạn nên chỉ làm được phiên bản 0.1 của game Snake,em sẽ cố gắng cải thiện.
 
 - Tự đánh giá 6.5-7/10, do game còn cơ bản, cũng không phải hoàn toàn tự làm mà được sự trợ giúp, tuy nhiên em cũng đã cố gắng hết sức, nên em nghĩ có thể ở mức khá.
 
