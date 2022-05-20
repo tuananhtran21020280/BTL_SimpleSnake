@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1653070586 source:d:\codeblocks\sdl2\snakegame\main.cpp
+	"snake.hpp"
+	<iostream>
+
+1653070958 d:\codeblocks\sdl2\snakegame\snake.hpp
+	<SDL.h>
+	<deque>
+
+1653075083 source:d:\codeblocks\sdl2\snakegame\snake.cpp
+	"snake.hpp"
+
+1652759979 d:\codeblocks\sdl2\snakegame\sdl_check.hpp
+	<stdexcept>
+	<string>
+
