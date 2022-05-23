@@ -24,3 +24,4 @@ Download code về máy, mở dự án trên Codeblocks và chạy file main.cpp
 -Quá trình học và hoàn thiện dự án khá khó khăn, vì tiếp xúc khá nhiều cái mới, nhưng cũng vì thế mà cảm thấy bản thân đang còn non, cần phải cố gắng cải thiện
 thêm nhiều, qua dự án học được : cách quản lý dự án, các hàm cơ bản của SDL, cải thiện được một số kỹ năng lập trình,...
 
+-Sẽ cố gắng cải thiện và phát triển thêm về dự án như: vẽ  sân chơi đẹp hơn, tạo nhiều loại quả, nhiều lv, tạo menu, âm thanh, hình ảnh sống động hơn,...em sẽ cố gắng bổ sung thêm kiến thức để hoàn thiện.
