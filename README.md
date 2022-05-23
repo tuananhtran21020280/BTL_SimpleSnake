@@ -1,6 +1,7 @@
 # BTL_SimpleSnake
 # 1. Cách cài đặt
 -Download code về máy, mở dự án trên Codeblocks và chạy file main.cpp
+
 -Video demo:https://user-images.githubusercontent.com/100192298/169811148-5bb7d743-8419-4ed1-ba1e-ea840f0bde6f.mp4
 
 # 2. Mô tả cách chơi.	  
